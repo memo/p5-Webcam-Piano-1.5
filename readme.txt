@@ -30,4 +30,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 	
+
+// Includes Super Fast Blur v1.1
+// by Mario Klingemann 
+// <http://incubator.quasimondo.com>
+// ==================================================
  ***********************************************************************/
